@@ -22,5 +22,4 @@ def sortasc(arr):
 rr=sortasc(numbers)
 print(rr)
 
-numbers = [89, 80, 38, 908, 786, 13, 56]
 
